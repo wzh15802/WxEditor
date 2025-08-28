@@ -774,4 +774,4 @@ if __name__ == "__main__":
         app.setAttribute(app_info)
     ex = Example()
     sys.exit(app.exec_())
-    # pyinstaller --noconsole --onefile --icon="C:\Users\WZH\PycharmProjects\pythonProject3\icon.ico" --add-data="C:\Users\WZH\AppData\Local\ms-playwright\chromium_headless_shell-1161\chrome-win\*;ms-playwright/chromium_headless_shell-1161/chrome-win/" main.py
+
